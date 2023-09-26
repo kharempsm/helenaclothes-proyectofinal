@@ -7,12 +7,12 @@ Este proyecto, "Helena Clothes", es un esfuerzo de desarrollo web destinado a cr
 ![pantalla-helenaclothes](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/7599d1e6-44f5-4028-ba5c-5c8999c4b9bf)
 
 # TECNOLOGIAS USADAS:
-1) Visual Studio Code: editor de código utilizado para el desarrollo.
-2) Node.js: tiempo de ejecución de JavaScript para desarrollo del lado del servidor.
-3) Sass: lenguaje de programación preprocesador que se interpreta o compila en CSS.
-4) Git Hub: es una plataforma de alojamiento de código para control de versiones y colaboración.
-5) Git bash: es una aplicación para entornos de Microsoft Windows que ofrece una capa de emulación para una experiencia de líneas de comandos de Git.
-6) Photopea: convertidor de imagenes y photoshop en linea.
+1) ![Proyecto nuevo](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/5983de50-a6bb-4b4c-9423-bd5411f60e56) Visual Studio Code: editor de código utilizado para el desarrollo.
+2) ![Proyecto nuevo (2)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/1c26c0db-c28a-4e02-9b59-d1431b510de3) Sass: lenguaje de programación preprocesador que se interpreta o compila en CSS.
+3) ![Proyecto nuevo (3)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/9249e8c9-4755-4809-8a53-58c0e48722f5) Git Hub: es una plataforma de alojamiento de código para control de versiones y colaboración.
+4) ![Proyecto nuevo (4)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/742570a3-231b-46e0-99d1-002587d02c3e) Git bash: es una aplicación para entornos de Microsoft Windows que ofrece una capa de emulación para una experiencia de líneas de comandos de Git.
+5) ![Proyecto nuevo (6)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/9e6a68c8-aaf4-46bd-a3c2-32969438cc8c) Photopea: convertidor de imagenes y photoshop en linea.
+6) ![Proyecto nuevo (5)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/e5b9e069-2127-4a51-913a-e196c7cac47a) Animate.css: Libreria de estilos donde podras encontrar distintos tipos de animaciones.
    
 # DESARROLLO DEL PROYECTO.
 

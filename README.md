@@ -8,12 +8,11 @@ Este proyecto, "Helena Clothes", es un esfuerzo de desarrollo web destinado a cr
 
 # TECNOLOGIAS USADAS:
 1) Visual Studio Code: editor de código utilizado para el desarrollo.
-2) HTML: Lenguaje de marcado utilizado para estructurar el contenido.
-3) CSS: Lenguaje de hojas de estilo para diseñar la presentación del sitio web.
-4) Node.js: tiempo de ejecución de JavaScript para desarrollo del lado del servidor.
-5) Sass: lenguaje de programación preprocesador que se interpreta o compila en CSS.
-6) Git Hub: es una plataforma de alojamiento de código para control de versiones y colaboración.
-7) Git bash: es una aplicación para entornos de Microsoft Windows que ofrece una capa de emulación para una experiencia de líneas de comandos de Git.
+2) Node.js: tiempo de ejecución de JavaScript para desarrollo del lado del servidor.
+3) Sass: lenguaje de programación preprocesador que se interpreta o compila en CSS.
+4) Git Hub: es una plataforma de alojamiento de código para control de versiones y colaboración.
+5) Git bash: es una aplicación para entornos de Microsoft Windows que ofrece una capa de emulación para una experiencia de líneas de comandos de Git.
+6) Photopea: convertidor de imagenes y photoshop en linea.
    
 # DESARROLLO DEL PROYECTO.
 
@@ -43,10 +42,14 @@ El proyecto final "Helena Clothes" representa la culminación de nuestros esfuer
 
 :white_check_mark: Diseño responsive para dispositivos moviles y pantallas de escritorio.
 
-:white_check_mark: Todas las imagebes estan optimizadas.
+:white_check_mark: Optimizacion de todas las imagenes.
 
 :white_check_mark: Se elimino el css nativo.
 
 :white_check_mark: Se subio al servidor.
+
+👉 LINK
+
+
 
 

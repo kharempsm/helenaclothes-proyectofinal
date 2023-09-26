@@ -44,7 +44,9 @@ El proyecto final "Helena Clothes" representa la culminación de nuestros esfuer
 
 [Netlify](https://helenaclothes.netlify.app/).
 
+# AUTOR
 
+![Proyecto nuevo (9)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/c1601ad4-4f17-4290-84d4-e8a91f3e74b5) 
 
-
+Kharem Suarez
 

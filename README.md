@@ -11,8 +11,8 @@ Este proyecto, "Helena Clothes", es un esfuerzo de desarrollo web destinado a cr
 2) ![Proyecto nuevo (2)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/1c26c0db-c28a-4e02-9b59-d1431b510de3) Sass: lenguaje de programación preprocesador que se interpreta o compila en CSS.
 3) ![Proyecto nuevo (3)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/9249e8c9-4755-4809-8a53-58c0e48722f5) Git Hub: es una plataforma de alojamiento de código para control de versiones y colaboración.
 4) ![Proyecto nuevo (4)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/742570a3-231b-46e0-99d1-002587d02c3e) Git bash: es una aplicación para entornos de Microsoft Windows que ofrece una capa de emulación para una experiencia de líneas de comandos de Git.
-5) ![Proyecto nuevo (6)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/9e6a68c8-aaf4-46bd-a3c2-32969438cc8c) Photopea: convertidor de imagenes y photoshop en linea.
-6) ![Proyecto nuevo (5)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/e5b9e069-2127-4a51-913a-e196c7cac47a) Animate.css: Libreria de estilos donde podras encontrar distintos tipos de animaciones.
+5)![Proyecto nuevo (7)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/df06676e-a064-4cc4-88be-f8fddde4442f) Photopea: convertidor de imagenes y photoshop en linea.
+6) ![Proyecto nuevo (8)](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/eda89d63-dbab-430d-9b0d-8411a5156ba1) Animate.css: Libreria de estilos donde podras encontrar distintos tipos de animaciones.
    
 # DESARROLLO DEL PROYECTO.
 

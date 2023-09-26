@@ -3,7 +3,10 @@
 ![logo-hc](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/6a94a963-479f-4fc5-834f-c72c573123aa)
 
 # DESCRIPCION DEL PROYECTO
-Este proyecto, "Helena Clothes", es un esfuerzo de desarrollo web destinado a crear un sitio web atractivo y funcional para una tienda de ropa infantil en línea. El objetivo principal es proporcionar una plataforma atractiva para que los usuarios exploren y compren prendas de vestir.
+Este proyecto representa el resultado de nuestro curso de Desarrollo Web en Coder House, centrándonos en la creación de una plataforma de venta de ropa infantil en línea. La finalidad principal de esta aplicación es proporcionar a los usuarios una experiencia de compra fácil, atractiva y segura para adquirir prendas de vestir para niños.
+
+Nuestro principal objetivo con este proyecto es aplicar los conocimientos adquiridos durante el curso y llevar a cabo la implementación de una aplicación funcional y visualmente agradable para la venta de ropa infantil. Queremos crear una interfaz intuitiva que permita a los usuarios explorar productos de manera eficiente.
+
 ![pantalla-helenaclothes](https://github.com/kharempsm/helenaclothes-proyectofinal/assets/143567004/7599d1e6-44f5-4028-ba5c-5c8999c4b9bf)
 
 # TECNOLOGIAS USADAS:
